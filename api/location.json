@@ -1,0 +1,34 @@
+{
+    "town":
+        {
+        "uppsala": 
+            {
+                "name": "Uppsala",
+                "lat": 59.858,
+                "long": 17.639,
+                "spots": [
+                    {"name": "Ekolns segelkubb"},
+                    {"name": "Uppsala centralstation"}
+                ]
+            },
+        "sthlm": {
+                "name": "Stockholm",
+                "lat": 59.329,
+                "long": 18.067,
+                "spots": [
+                    {"name": "Kungliga Operan"},
+                    {"name": "Stadshuset"},
+                    {"name": "Rådhuset"}
+                ]
+            },
+        "malmo": {
+                "name": "Malmö",
+                "lat": 55.60,
+                "long": 13.00,
+                "spots": [
+                    {"name": "Malmo centralstation"},
+                    {"name": "Malmö universitet"}
+                ]
+            }
+    }
+}
